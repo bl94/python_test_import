@@ -17,3 +17,8 @@ def git_func():
     print("add new repositories to GitHub")
 
 git_func()
+
+def second_git_func():
+    print("add second git func")
+
+second_git_func()
